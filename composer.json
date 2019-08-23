@@ -1,5 +1,5 @@
 {
-  "name": "drupal/no_auth",
+  "name": "gnikolovski/no_auth",
   "description": "No authentication provider.",
   "type": "drupal-module",
   "homepage": "https://github.com/gnikolovski/no_auth",
