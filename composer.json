@@ -1,0 +1,23 @@
+{
+  "name": "drupal/no_auth",
+  "description": "No authentication provider.",
+  "type": "drupal-module",
+  "homepage": "https://github.com/gnikolovski/no_auth",
+  "authors": [
+    {
+      "name": "Goran Nikolovski",
+      "email": "nikolovski84@gmail.com",
+      "homepage": "http://gorannikolovski.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/gnikolovski/no_auth/issues",
+    "email": "nikolovski84@gmail.com"
+  },
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": {
+    "drupal/core": "^8.6"
+  }
+}
