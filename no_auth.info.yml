@@ -1,0 +1,6 @@
+name: 'No Auth'
+type: module
+description: 'No authentication provider.'
+package: 'Web services'
+version: VERSION
+core: 8.x

@@ -1,0 +1,9 @@
+services:
+  no_auth.auth_provider:
+    class: Drupal\no_auth\Authentication\Provider\NoAuth
+    tags:
+      - { name: authentication_provider, provider_id: no_auth, priority: 100 }
+  no_auth.encoder:
+    class: Drupal\no_auth\Encoder\FormJsonEncoder
+    tags:
+      - { name: encoder, format: form }
