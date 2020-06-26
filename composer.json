@@ -1,6 +1,6 @@
 {
   "name": "gnikolovski/no_auth",
-  "description": "No authentication provider.",
+  "description": "Authentication provider that requires no authentication.",
   "type": "drupal-module",
   "homepage": "https://github.com/gnikolovski/no_auth",
   "authors": [
