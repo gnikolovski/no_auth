@@ -16,6 +16,12 @@ module to allow anonymous users to POST to your REST Api endpoints.
 
 - Adds form as accepted request format. It decodes form data and returns JSON.
 
+ * For a full description of the module, visit the project page:
+   https://github.com/gnikolovski/no_auth
+
+ * To submit bug reports and feature suggestions, or to track changes:
+   https://github.com/gnikolovski/no_auth/issues
+
 
 REQUIREMENTS
 ------------
